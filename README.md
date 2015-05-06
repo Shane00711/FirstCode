@@ -1,3 +1,3 @@
 # FirstCode
 Test GitHub
-Hello World
+Doing my first tutorial on GitHub
